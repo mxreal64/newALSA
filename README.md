@@ -1,4 +1,4 @@
-# Modern C++23 ALSA Module Wrapper
+# newALSA
 
 A dependency-free, zero-overhead, macro-encapsulated C++23 module abstraction wrapper over the Advanced Linux Sound Architecture (ALSA) kernel drivers.
 
